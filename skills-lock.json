@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "skills": {
+    "pinescript": {
+      "source": "iliaal/ai-skills",
+      "sourceType": "github",
+      "skillPath": "skills/pinescript/SKILL.md",
+      "computedHash": "dcbde5b371e9ee9a6ab011dc53046cbf6c66ee19a259c9110431980f089e4dc1"
+    }
+  }
+}

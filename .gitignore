@@ -1,0 +1,7 @@
+.DS_Store
+.env
+.env.*
+*.token
+scratch/*
+!scratch/.gitkeep
+node_modules/
