@@ -1,4 +1,4 @@
-# OpenMarket workspace
+# OpenMarket indicators workspace
 
 Workspace for building indicators ("plugins") for OpenMarket, driving charts through the OpenMarket chart MCP, and managing the OpenMarket setup overall.
 

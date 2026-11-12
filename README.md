@@ -1,4 +1,4 @@
-# OpenMarket
+# openmarket-indicators
 
 Workspace for building indicators for [OpenMarket](https://openmarket.xyz), driving charts through the [OpenMarket chart MCP](https://mcp.openmarket.xyz/llms.txt), and managing the setup overall.
 
